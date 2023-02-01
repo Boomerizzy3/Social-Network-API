@@ -7,6 +7,8 @@ An API for a social network web application
 
 ## Walkthrough video
 
+https://drive.google.com/file/d/10QJFzVTLYeRQV7LCDWbgYw2Rz1sQ60Zl/view 
+
 ## Credits
 
 Rutgers Coding Bootcamp Module 18 Challenge
